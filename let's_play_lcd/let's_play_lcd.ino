@@ -7,7 +7,7 @@ int D6 = 1;
 int D7 = 0;
 LiquidCrystal lcd (RS, E, D4, D5, D6, D7); //(rs,e,d4,d5,d6,d7)
 String tst = "";
-int timer = 200;
+int timer = 300;
 int j = 0;
 void setup()
 {
