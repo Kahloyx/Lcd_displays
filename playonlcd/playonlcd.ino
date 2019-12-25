@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>
-int RS = 7;
+int RS = 7;                                //Including the lcd lib, declaration of the pin for the 4 bits transmission data
 int E = 5;
 int D4 = 3;
 int D5 = 2;
