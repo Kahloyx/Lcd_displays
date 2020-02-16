@@ -23,6 +23,8 @@ void setup()
 }
 void loop()
 {
+  lcd.print("hello");
+  lcd.clear;
   while( j < 11, j++)
   {
     delay(timer);
